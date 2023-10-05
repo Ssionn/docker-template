@@ -1,0 +1,15 @@
+{
+    "esModuleInterop": true,
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ]
+    },
+    "include": [
+        "resources/ts/**/*.ts"
+    ],
+    "exclude": ["node_modules"]
+}
